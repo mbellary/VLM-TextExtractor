@@ -1,10 +1,10 @@
 pypdf
 pdf2image
-#typer[all]
+typer[all]
 torch
 torchvision
-#transformers
+transformers
 qwen-vl-utils
-#accelerate
+accelerate
 autoawq
 #poppler required for pdf2image
