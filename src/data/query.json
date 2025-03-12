@@ -1,0 +1,10 @@
+{
+  "table":
+  [
+    {
+      "description": "str",
+      "latest_amount": 0,
+      "previous_amount": 0
+    }
+  ]
+}

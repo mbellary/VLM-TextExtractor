@@ -1,0 +1,23 @@
+{
+"qwen_2.5_VL_72B_msgs" : [
+            {
+            "role": "system",
+            "content": "You are an expert at extracting structured text from image documents."
+            },
+            {
+              "role": "user",
+              "content": [
+                          {
+                            "type": "image",
+                            "image": "",
+                            "resized_height": "",
+                            "resized_width": ""
+                          },
+                          {
+                            "type": "text",
+                            "text": ""
+                          }
+              ]
+            }
+        ]
+}
